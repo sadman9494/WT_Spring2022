@@ -28,7 +28,7 @@
             <td>Preffered Language :</td> 
             <td><input type = "checkbox" name = "language1" value = "Java"> 
             <input type = "checkbox" name = "language1" value = "PHP"> 
-            <td><input type = "checkbox" name = "language1" value = "C++"></td> 
+            <input type = "checkbox" name = "language1" value = "C++"></td> 
         </tr>
         <tr>
             <td>First Eamil :</td> 
